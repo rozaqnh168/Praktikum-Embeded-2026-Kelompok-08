@@ -27,9 +27,9 @@ https://github.com/user-attachments/assets/eb3c5ee1-61b4-4675-a72d-67621f37e58c
 | --- | --- | --- |
 | [Modul 1](./Modul-1) | [Buka folder](./Modul-1/Laporan-Sementara) | [Buka folder](./Modul-1/Laporan-Akhir) |
 | [Modul 2](./Modul-2) | [Buka folder](./Modul-2/Laporan%20Sementara) | [Buka folder](./Modul-2/Laporan%20Akhir) |
-| [Modul 3](./Modul-3) | [Buka folder](./Modul-3/Laporan%20Sementara) | [Buka folder](./Modul-3/Laporan%20Akhir) |
-| [Modul 4](./Modul-4) | [Buka folder](./Modul-4/Laporan%20Sementara) | [Buka folder](./Modul-4/Laporan%20Akhir) |
-| [Modul 5](./Modul-5) | [Buka folder](./Modul-5/Laporan%20Sementara) | [Buka folder](./Modul-5/Laporan%20Akhir) |
+| [Modul 3](./Modul-3) | [Buka folder](./Modul-3/Laporan-Sementara) | [Buka folder](./Modul-3/Laporan-Akhir) |
+| [Modul 4](./Modul-4) | [Buka folder](./Modul-4/Laporan-Sementara) | [Buka folder](./Modul-4/Laporan-Akhir) |
+| [Modul 5](./Modul-5) | [Buka folder](./Modul-5/Laporan-Sementara) | [Buka folder](./Modul-5/Laporan-Akhir) |
 
 ## Penamaan berkas
 
